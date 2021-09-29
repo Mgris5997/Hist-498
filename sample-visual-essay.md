@@ -2,8 +2,7 @@
 
 <param ve-config 
        title="Cold Damage Disorders" 
-       banner="http://english.www.gov.cn/rw/Pub/GOV/p1/Content/News/Images/2015/04/01/01p21-2.jpg
-" 
+       banner="http://english.www.gov.cn/rw/Pub/GOV/p1/Content/News/Images/2015/04/01/01p21-2.jpg"
        layout="vertical">
 
 <!-- Entities discussed throughout the essay are typically defined before the essay text and
