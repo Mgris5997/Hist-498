@@ -15,8 +15,12 @@
 
 # Sample visual essay
 
-This is where I am going to put an introduction on 12th Century China, the [Song Dynasty](https://en.wikipedia.org/wiki/Song_dynasty Dynasty) and [Cold Damage Disorders](https://en.wikipedia.org/wiki/Shanghan_Lun)
+This is where I am going to put an introduction on 12th Century China, the _Song Dynasty_ and [Cold Damage Disorders](https://en.wikipedia.org/wiki/Shanghan_Lun)
 <param ve-image 
+       label="Song Dynasty"
+       description="information on song dynasty
+       license="public domain"
+       url="https://en.wikipedia.org/wiki/Song_dynasty Dynasty"
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 
 # Basic usage
