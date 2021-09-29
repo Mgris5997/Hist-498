@@ -2,7 +2,7 @@
 
 <param ve-config 
        title="Cold Damage Disorders" 
-       banner="![image](https://user-images.githubusercontent.com/91639682/135360693-0f58da2a-14e4-4737-b2bf-2da82b6ffa1d.png)
+       banner="http://english.www.gov.cn/rw/Pub/GOV/p1/Content/News/Images/2015/04/01/01p21-2.jpg
 " 
        layout="vertical">
 
