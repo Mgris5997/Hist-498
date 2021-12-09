@@ -26,7 +26,7 @@
 
 ## Image
 
-_Girl with a Pearl Earring_ (Dutch: Meisje met de parel) is an oil painting by Dutch Golden Age painter Johannes Vermeer, dated c. 1665. Going by various names over the centuries, it became known by its present title towards the end of the 20th century after the earring worn by the girl portrayed there.[^1]
+The Song Dynasty, years 960 through 1279 was wrought with disease to the point of epidemic and great change. Population change, political discourse, and the current view of medicine had created a perfect environment for Cold Damage Disorders to thrive.[^1]
 <param ve-image 
        label="Girl with a Pearl Earring" 
        description="painting by Johannes Vermeer" 
