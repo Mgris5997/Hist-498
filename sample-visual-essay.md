@@ -41,7 +41,8 @@ The work has been in the collection of the Mauritshuis in The Hague since 1902 a
 
 ## Multiple viewers
 
-Multiple viewers may be defined for a single paragraph of text.  The first viewer defined is displayed as the default viewer.  Others are selectable using icons displayed in the top right margin of the paragraph.
+The Song Dynasty was characterized by a large rise in population, which happened for many reasons.  One of the most prominent being the boom in population during this time. The population growth was a result of the over-maturing of Champa rice, a staple in the diet of many Chinese people. Champa rice was known for its ability to withstand both droughts and flooding and high and low temperatures while also having a high yield for the amount of space that it took up. Because of these factors, rice became a staple food in all of Asia that would reduce fears of food insecurity since it is such a resistant crop. Rapid expansion of rice production came about because of new inventions of iron tools and improvements in “water control, farm implements, draft animals, planting methods, weed and pest control, manuring and seed selection”, all of which created the “Green Revolution”. Since the Chinese could comfortably feed more people, birth rate increased and death rate decreased, resulting in a population boom that aided the spread of disease. 
+
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 <param ve-map center="Q36600" zoom="11">
