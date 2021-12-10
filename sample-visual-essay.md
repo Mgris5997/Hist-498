@@ -47,7 +47,7 @@ The Song Dynasty was characterized by a large rise in population, which happened
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 <param ve-map center="Q36600" zoom="11">
 
-# Effects of Cold Damage Disorders on the Medical Community
+## Effects of Cold Damage Disorders on the Medical Community
 
 # References
 
