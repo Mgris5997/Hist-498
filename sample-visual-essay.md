@@ -49,6 +49,8 @@ The Song Dynasty was characterized by a large rise in population, which happened
 
 ## Effects of Cold Damage Disorders on the Medical Community
 
+Cold damage disorders were a result of the tough times happening in China, such as the population change, trade routes, and government turbulence. In response to this the government and individuals, such as Xu Shuwei, had expanded the knowledge of medicine in order to help treat those around him. Despite the horrors of epidemics and the effects of cold damage disorders, it had resulted in a better understanding that others would be able to build upon in the future for years to come.
+
 # References
 
 [^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
