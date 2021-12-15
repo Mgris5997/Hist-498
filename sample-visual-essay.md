@@ -9,7 +9,7 @@
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
 <param ve-entity eid="Q7462"> <!-- Song Dynasty -->
-<param ve-entity eid="Q5090"> <!-- Rice -->
+<param ve-entity eid="Q5069872"> <!-- Rice -->
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
