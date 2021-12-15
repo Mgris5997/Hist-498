@@ -17,10 +17,7 @@
  [Cold Damage Disorders](https://en.wikipedia.org/wiki/Shanghan_Lun) are a large category of disorders with a wide range of symptoms, most notably with “hot sensations” near the onset of the disease ranging from the common cold to typhoid type symptoms in the early stages. Eventually, it could  lead to death if the disease is not treated or treated poorly.
 <param ve-image 
        label="Song Dynasty"
-       description="information on song dynasty"
-       license="public domain"
        url="https://commons.wikimedia.org/wiki/File:China_-_Song_Dynasty-fr.svg"
-       manifest="https://commons.wikimedia.org/wiki/File:China_-_Song_Dynasty-fr.svg">
      
 
 # Basic usage
