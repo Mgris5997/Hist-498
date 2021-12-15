@@ -29,10 +29,10 @@
 
 The Song Dynasty, years 960 through 1279 was wrought with disease to the point of epidemic and great change. Population change, political discourse, and the current view of medicine had created a perfect environment for Cold Damage Disorders to thrive.[^1]
 <param ve-image 
-       label="Girl with a Pearl Earring" 
-       description="painting by Johannes Vermeer" 
+       label="Song Dynasty" 
+       description="song dynasty" 
        license="public domain" 
-       url="https://i5.walmartimages.com/asr/d568623f-035c-4fe8-8243-36afd7eb1737.c0286635128cd5bcd3d35a625eb6baab.jpeg?odnWidth=612&odnHeight=612&odnBg=ffffff">
+       url="https://en.wikipedia.org/wiki/Song_dynasty">
 
 ## Map
 
