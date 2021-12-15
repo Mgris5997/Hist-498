@@ -15,6 +15,7 @@
 
 # Cold Damage Disorders
  [Cold Damage Disorders](https://en.wikipedia.org/wiki/Shanghan_Lun) are a large category of disorders with a wide range of symptoms, most notably with “hot sensations” near the onset of the disease ranging from the common cold to typhoid type symptoms in the early stages. Eventually, it could  lead to death if the disease is not treated or treated poorly.
+ 
 <param ve-image 
        label="Song Dynasty"
        url="https://commons.wikimedia.org/wiki/File:China_-_Song_Dynasty-fr.svg">
@@ -38,7 +39,8 @@ One of the case studies that Shuwei had written about in his case studies detail
        label="Song Dynasty" 
        description="map of song dynasty" 
        license="public domain" 
-       url="https://en.wikipedia.org/wiki/Song_dynasty#/media/File:China_-_Song_Dynasty-en.svg">
+       url="https://user-images.githubusercontent.com/91639682/146279776-3a681488-863e-49ad-83e1-059d9022b38e.png">
+
 
 ## Population growth leading to more disease
 
@@ -54,4 +56,4 @@ Cold damage disorders were a result of the tough times happening in China, such 
 
 # References
 
-[^1]: [Wikipedia: Girl with a Pearl Earring](https://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring)
+[^1]: [https://en.wikipedia.org/wiki/Song_dynasty)
