@@ -9,7 +9,7 @@
      are thus available in all text.  Entity identifiers (QIDs) can be found in either
      Wikipedia or Wikidata (https://www.wikidata.org)> -->
 <param ve-entity eid="Q7462"> <!-- Song Dynasty -->
-<param ve-entity eid="Q41264"> <!-- Johannes Vermeer -->
+<param ve-entity eid="Q5090"> <!-- Rice -->
 <param ve-entity eid="Q221092"> <!-- Mauritshuis -->
 <param ve-entity eid="Q36600"> <!-- The Hague -->
 
@@ -45,11 +45,17 @@ One of the case studies that Shuwei had written about in his case studies detail
 ## Population growth leading to more disease
 
 The Song Dynasty was characterized by a large rise in population, which happened for many reasons.  One of the most prominent being the boom in population during this time. The population growth was a result of the over-maturing of Champa rice, a staple in the diet of many Chinese people. Champa rice was known for its ability to withstand both droughts and flooding and high and low temperatures while also having a high yield for the amount of space that it took up. Because of these factors, rice became a staple food in all of Asia that would reduce fears of food insecurity since it is such a resistant crop. Rapid expansion of rice production came about because of new inventions of iron tools and improvements in “water control, farm implements, draft animals, planting methods, weed and pest control, manuring and seed selection”, all of which created the “Green Revolution”. Since the Chinese could comfortably feed more people, birth rate increased and death rate decreased, resulting in a population boom that aided the spread of disease.
+<param ve-image
+       label="Rice" 
+       description="rice" 
+       license="public domain" 
+       url="https://user-images.githubusercontent.com/91639682/146280763-bb7f6b18-a6de-4513-bf61-2063c940190e.jpg">
 <param ve-image 
        manifest="https://iiif.juncture-digital.org/manifest/6dd738aed85597cac540ad31dd5818e86ef7f2918c7b43a9eb3123d5538e6e4c">
 <param ve-map center="Q36600" zoom="11">
 
 ## Effects of Cold Damage Disorders on the Medical Community
+
 
 Cold damage disorders were a result of the tough times happening in China, such as the population change, trade routes, and government turbulence. In response to this the government and individuals, such as Xu Shuwei, had expanded the knowledge of medicine in order to help treat those around him. Despite the horrors of epidemics and the effects of cold damage disorders, it had resulted in a better understanding that others would be able to build upon in the future for years to come.
 
