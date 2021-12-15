@@ -31,9 +31,9 @@ The Song Dynasty, years 960 through 1279 was wrought with disease to the point o
        license="public domain" 
        url="https://en.wikipedia.org/wiki/Song_dynasty">
 
-## Map
+## Shuwei had shown to know a lot about medicine
 
-The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
+One of the case studies that Shuwei had written about in his case studies details the story of a man who is suffering from a cold damage disorder who Shuwei treats with a red peony root, and speaks about how it was beneficial despite the medical knowledge. The red and white peony roots and their different functions had long been discussed by medical scholars but Shuwei had used this opportunity in his treatise to clear up the misconceptions about the plant and describe their different uses.
 <param ve-image
        label="Song Dynasty" 
        description="map of song dynasty" 
