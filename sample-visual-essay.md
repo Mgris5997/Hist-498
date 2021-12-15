@@ -45,7 +45,6 @@ One of the case studies that Shuwei had written about in his case studies detail
 ## Population growth leading to more disease
 
 The Song Dynasty was characterized by a large rise in population, which happened for many reasons.  One of the most prominent being the boom in population during this time. The population growth was a result of the over-maturing of Champa rice, a staple in the diet of many Chinese people. Champa rice was known for its ability to withstand both droughts and flooding and high and low temperatures while also having a high yield for the amount of space that it took up. Because of these factors, rice became a staple food in all of Asia that would reduce fears of food insecurity since it is such a resistant crop. Rapid expansion of rice production came about because of new inventions of iron tools and improvements in “water control, farm implements, draft animals, planting methods, weed and pest control, manuring and seed selection”, all of which created the “Green Revolution”. Since the Chinese could comfortably feed more people, birth rate increased and death rate decreased, resulting in a population boom that aided the spread of disease. 
-
 <param ve-image 
        label="Champa Rice" 
        description="rice" 
