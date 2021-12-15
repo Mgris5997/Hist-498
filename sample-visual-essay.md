@@ -37,7 +37,11 @@ The Song Dynasty, years 960 through 1279 was wrought with disease to the point o
 ## Map
 
 The work has been in the collection of the Mauritshuis in The Hague since 1902 and has been the subject of various literary treatments. In 2006, the Dutch public selected it as the most beautiful painting in the Netherlands.
-<param ve-map center="Q36600" zoom="11" prefer-geojson>
+<param ve-image
+       label="Song Dynasty" 
+       description="map of song dynasty" 
+       license="public domain" 
+       url="https://en.wikipedia.org/wiki/Song_dynasty#/media/File:China_-_Song_Dynasty-en.svg">
 
 ## Population growth leading to more disease
 
